@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Play.Contracts</id>
+    <version>1.0.0</version>
+    <authors>Play.Contracts</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\bin\Debug\net6.0\Play.Contracts.dll" target="lib\net6.0\Play.Contracts.dll" />
+  </files>
+</package>

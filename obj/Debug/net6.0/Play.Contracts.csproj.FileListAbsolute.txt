@@ -1,0 +1,12 @@
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\bin\Debug\net6.0\Play.Contracts.deps.json
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\bin\Debug\net6.0\Play.Contracts.dll
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\bin\Debug\net6.0\Play.Contracts.pdb
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\Play.Contracts.csproj.AssemblyReference.cache
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\Play.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\Play.Contracts.AssemblyInfoInputs.cache
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\Play.Contracts.AssemblyInfo.cs
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\Play.Contracts.csproj.CoreCompileInputs.cache
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\Play.Contracts.dll
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\refint\Play.Contracts.dll
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\Play.Contracts.pdb
+D:\programming\C#\Microservices\Play.Contracts\src\Play.Contracts\obj\Debug\net6.0\ref\Play.Contracts.dll
